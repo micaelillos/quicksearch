@@ -1,6 +1,5 @@
 # quicksearch
 
-# Notice: This is no longer maintained
 
 Welcome to quicksearch. The quickest way to get code snippets without leaving your ide.
 
